@@ -1,0 +1,1 @@
+Please include sources for any issues you bring up! This will make it a lot quicker and easier for us to correct any misinformation. No fancy formatting needed, just a link and a brief explanation of what needs to be changed or included is totally fine.
