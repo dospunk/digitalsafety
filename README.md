@@ -24,4 +24,4 @@ Police use images of protesters to identify them after the protest has ended. Yo
 
 ### How
 
-https://everestpipkin.github.io/image-scrubber/
+Another github user has created a tool for bluring faces and scrubbing metadata from images. You can find it here: https://everestpipkin.github.io/image-scrubber/ The tool runs completely in the browser, so your pictures never leave your computer. 
