@@ -4,11 +4,17 @@
 
 ## Lock your phone
 
+### Why
+
 The easiest and most important step is to properly lock your phone. While you generally can't be forced to give up your password or PIN, police have forced people to unlock their phone by using facial recognition or fingerprint sensors. Before going out, ensure that you know how to quickly and properly lock your phone.
+
+### How
 
 **For iPhone users,** there are two ways to temporarily disable Face ID and Touch ID. For both methods, your PIN will be required to unlock the phone (after which Face/Touch ID will be turned back on). The simplest is to power off the phone completely. If that's not an option, you can use your iPhone's [Emergency SOS](https://support.apple.com/en-us/HT208076) feature to immediately lock your phone. **On iPhone 7 or earlier,** quickly press the lock button 5 times. **On iPhone 8 or later,** press and hold the lock button and one of the volume buttons. A screen will show up giving you the option to call emergency services, so just press cancel. Your phone will require a PIN before Face/Touch ID are turned back on.
 
-**For Android users,** if on Android 9 or later, use your phone's lockdown option to temporarily disable the fingerprint sensor, facial recognition, and Smart Lock settings. This will also prevent notifications from appearing on the lock screen. See these instructions for enabling lockdown mode: <https://support.google.com/pixelphone/answer/6093922#lockdown>
+**For Android users,** if on Android 9 or later, use your phone's lockdown option to temporarily disable the fingerprint sensor, facial recognition, and Smart Lock settings. This will also prevent notifications from appearing on the lock screen. See these instructions for enabling lockdown mode: <https://support.google.com/pixelphone/answer/6093922#lockdown>. On Phones running the Oxygen OS variant of Android (such as the OnePlus series), the setting can be found by searching for "lockdown" in the phone's settings.
+
+*If your phone has different steps for enabling lockdown mode, please [let us know](https://github.com/dospunk/digitalsafety/issues)*
 
 ## Encrypt your communications
 
