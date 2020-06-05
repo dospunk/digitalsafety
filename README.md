@@ -40,8 +40,8 @@ One option is to not bring your primary phone to the protest at all. This may le
 If you're not comfortable going without a phone, there are other options. You could bring your phone and keep it turned off or in a Faraday bag unless you absolutely need it. This will not protect you from the police confiscating your phone and using the data on it against you, nor will it help if you have to turn it on or take it out of the bag. A better option is to buy a burner phone and bring that along with keeping it off and in a Faraday bag. According to Wired, TRACphone and Mint Mobile are preferable over MetroPCS as they require less identifying information. 
 
 
-## Sources
+## Resources
 
-[rey.nbows on Tiktok](https://www.tiktok.com/@rey.nbows)
-
-[Wired - How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
+- [Wired - How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
+- [Electronic Frontier Foundation - Surveillance Self-Defense](https://ssd.eff.org/)
+- [Committee to Protect Journalists - Digital Safety Kit](https://cpj.org/2019/07/digital-safety-kit-journalists/)
