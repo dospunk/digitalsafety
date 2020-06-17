@@ -27,9 +27,7 @@ arrested, the police could get a search warrent to obtain your text message recc
 ### How
 
 Download the app Signal, and encourage your friends to as well. Signal is an encrypted messaging app, so even if the police
-do intercept your messages, they won't be able to read them. I like signal because they store almost 0 data about your account, while other encrypted messaging apps still store things like your contacts list or your groups on  their server. 
-
-[![Signal](https://signal.org/assets/header/logo-f7ef605fe417d5520d38d546b3b774b4261c75220b9904da4d8b2ffc19a761ff.png)](https://signal.org/en/)
+do intercept your messages, they won't be able to read them. I like signal because they store almost 0 data about your account, while other encrypted messaging apps still store things like your contacts list or your groups on  their server. [Get Signal here](https://signal.org/en/).
 
 ## Blur your images and scrub your metadata
 
