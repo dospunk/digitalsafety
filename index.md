@@ -1,3 +1,6 @@
+---
+title: Digital Safety for Protesters
+---
 # Digital Safety for Protesters
 
 *Disclaimer: I am not a cybersecurity expert, and I am not a lawyer. I am a computer scientist who does a lot of research, but I do not work in cybersecurity and I did not focus on cybersecurity in my college classes. If you see someone more qualified than I am contradicting what I say here, please trust them over me and [submit an issue](https://github.com/dospunk/digitalsafety/issues) so that I can fix the misinformation.*
@@ -39,7 +42,9 @@ Police use images of protesters to identify them after the protest has ended. Yo
 
 ### How
 
-Another github user has created a tool for bluring faces and scrubbing metadata from images. You can find it here: https://everestpipkin.github.io/image-scrubber/ The tool runs completely in the browser, so your pictures never leave your computer. 
+Another github user has created a tool for bluring faces and scrubbing metadata from images. You can find it here: https://everestpipkin.github.io/image-scrubber/
+
+The tool runs completely in the browser, so your pictures never leave your computer. 
 
 ## Don't let your phone give you away 
 
