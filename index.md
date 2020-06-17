@@ -1,6 +1,3 @@
----
-title: Digital Safety for Protesters
----
 # Digital Safety for Protesters
 
 *Disclaimer: I am not a cybersecurity expert, and I am not a lawyer. I am a computer scientist who does a lot of research, but I do not work in cybersecurity and I did not focus on cybersecurity in my college classes. If you see someone more qualified than I am contradicting what I say here, please trust them over me and [submit an issue](https://github.com/dospunk/digitalsafety/issues) so that I can fix the misinformation.*
