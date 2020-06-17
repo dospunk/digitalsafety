@@ -1,1 +1,0 @@
-pandoc README.md -o out\zine.pdf --template pandoc-templates\zine.tex 
