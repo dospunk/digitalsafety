@@ -20,14 +20,11 @@ The easiest and most important step is to properly lock your phone. While you ge
 
 ### Why
 
-The police have the ability to intercept your text messages and calls with a device called a Stingray. While it hasn't been
-confirmed that stingrays are in use, there is also no way to confirm that they're not. It is also possible that if you are
-arrested, the police could get a search warrent to obtain your text message reccords from your cellphone carrier. 
+The police have multiple methods of intercepting your text messages and phonecalls. These devices, known as ISMI-catchers, Stingrays, or Crossbows, can "record phones' geolocation, their phone number, and sometimes the content of texts and phone calls," according to Vice<sup>4</sup>. While it hasn't been confirmed that stingrays or other ISMI-catchers are in use at protests, many police departments do not disclose their use of such devices. It is also possible that if you are arrested, the police could obtain a search warrent to obtain your text message records from your cellphone carrier. 
 
 ### How
 
-Download the app Signal, and encourage your friends to as well. Signal is an encrypted messaging app, so even if the police
-do intercept your messages, they won't be able to read them. I like signal because they store almost 0 data about your account, while other encrypted messaging apps still store things like your contacts list or your groups on  their server. [Get Signal here](https://signal.org/en/).
+Download the app Signal, and encourage your friends to as well. Signal is an encrypted messaging app, so even if the police do intercept your messages, they won't be able to read them. I like signal because they store almost 0 data about your account, while other encrypted messaging apps still store things like your contacts list or your groups on  their server. [Get Signal here](https://signal.org/en/).
 
 ## Blur your images and scrub your metadata
 
@@ -53,8 +50,9 @@ One option is to not bring your primary phone to the protest at all. This may le
 
 If you're not comfortable going without a phone, there are other options. You could bring your phone and keep it turned off or in a Faraday bag unless you absolutely need it. This will not protect you from the police confiscating your phone and using the data on it against you, nor will it help if you have to turn it on or take it out of the bag. A better option is to buy a burner phone and bring that along with keeping it off and in a Faraday bag. According to Wired, TRACphone and Mint Mobile are preferable over MetroPCS as they require less identifying information. 
 
-## Resources
+## Resources and References
 
-- [Wired - How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
-- [Electronic Frontier Foundation - Surveillance Self-Defense](https://ssd.eff.org/)
-- [Committee to Protect Journalists - Digital Safety Kit](https://cpj.org/2019/07/digital-safety-kit-journalists/)
+1. [Wired - How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
+2. [Electronic Frontier Foundation - Surveillance Self-Defense](https://ssd.eff.org/)
+3. [Committee to Protect Journalists - Digital Safety Kit](https://cpj.org/2019/07/digital-safety-kit-journalists/)
+4. [Vice - How to Protest Without Sacrificing Your Digital Privacy](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest)
